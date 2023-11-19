@@ -1,0 +1,74 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color:aliceblue;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20 10 0 0px;
+}
+
+
+header,
+footer {
+  background-color:rgb(46, 84, 122);
+  color:whitesmoke;
+  text-align: left;
+  padding: 20px 0 ;
+}
+
+header h1 {
+  font-size: 2em;
+}
+.ab{
+  font-size: 150%;
+  text-decoration: solid;
+  color:rgb(55, 53, 53);
+ 
+  
+}
+header p {
+  font-size: 1.2em;
+}
+.about img
+{
+    width: 30%;
+    border-radius:5px;
+}
+
+ul {
+  list-style-type: style disc;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+.project img{
+  width:30%;
+}
+
+
+#resume a{
+text-decoration: none;
+}
+.copy
+{
+  text-align: right;
+}
+.container1
+{
+  text-align: left;
+}
+.sky{
+  padding: 0 25px;
+}
+
